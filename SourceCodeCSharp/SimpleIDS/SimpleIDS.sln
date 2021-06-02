@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleIDS", "SimpleIDS\SimpleIDS.csproj", "{9D393CC8-A27E-4D2C-843F-4C39FB637ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D393CC8-A27E-4D2C-843F-4C39FB637ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D393CC8-A27E-4D2C-843F-4C39FB637ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D393CC8-A27E-4D2C-843F-4C39FB637ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D393CC8-A27E-4D2C-843F-4C39FB637ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A55AE300-698A-4595-A320-42DFB42163B6}
+	EndGlobalSection
+EndGlobal

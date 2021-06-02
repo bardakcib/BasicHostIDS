@@ -1,0 +1,10 @@
+				<!-- One -->
+					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+						<div class="content" style="margin-top:-30px; text-align:center" >
+							<h1><img src="images/val.png" alt="" /></h1>
+							<p class="major" style="margin-top:-10px" >Ethic & Sustainable Wear </br><img class="mobileHide" src="images/chmlns.png" width="194" alt=""  /> <text class="mobileShow">|</text></br> Organic & Recycled Materials</p>
+
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
